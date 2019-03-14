@@ -1,12 +1,12 @@
-#FTP authentication challenge
+# FTP authentication challenge
 For this challenge I used wireshark to analyse the FTP package.
 First Download the ch1.pcap file. next open wireshark. No wireshark installed? No problem I will show you how to install wireshark via the terminal.
 1- Open the Terminal.
 2- Type sudo apt install wireshark-qt
 3- You have now installed wireshark
-###What is wireshark?
+### What is wireshark?
 Wireshark is a network packet analyzer. A network packet analyzer will try to capture network packets and tries to display that packet data as detailed as possible.
-###Features
+### Features
 Main Wireshark Features are:
 1- Available for UNIX and Windows.
 2- Capture live packet data from a network interface.
